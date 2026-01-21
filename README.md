@@ -11,6 +11,7 @@ This repository includes solutions for the following problems:
 2.  [Pascal's Triangle](#pascals-triangle)
 3.  [Set Matrix Zeroes](#set-matrix-zeroes)
 4.  [Next permutation](#next-permutation)
+5.  [sort color](#sort-array-with-only-values-0,1,2)
 
 ---
 
@@ -75,10 +76,13 @@ To achieve an in-place solution with O(1) extra space, the first row and first c
 **How to Use:**
 This file provides a `Solution` class with a `setZeroes` method, as is typical in a LeetCode environment. It does not contain a `main` method and cannot be executed directly. To use it, you would integrate it into a larger application like this:
 
-Next permutation
+**Next permutation**
  Here i have used java code to find the next permuatation  
  1)Finding the break point for swapping the value
  2)finding the  lagest value  and nearest value to the breakpoint index
  3)reverseing the remaing things in array 
  4)if index =-1 then their is no breakpoint  just reverse the array to next permuatation
- 
+
+ **Sort color [array value will be only 0,1,2**
+  1) we will run a loop first and identify the count values 
+  2) after we will run 3 for loop and  and assign the present value with array
