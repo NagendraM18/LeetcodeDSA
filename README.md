@@ -12,7 +12,7 @@ This repository includes solutions for the following problems:
 3.  [Set Matrix Zeroes](#set-matrix-zeroes)
 4.  [Next permutation](#next-permutation)
 5.  [sort color](#sort-array-with-only-values-0,1,2)
-
+6.  [Buy and sell stock at best price](#Buy-and-sell-stock-at-best-price)
 ---
 
 ### Two Sum
@@ -86,3 +86,9 @@ This file provides a `Solution` class with a `setZeroes` method, as is typical i
  **Sort color [array value will be only 0,1,2**
   1) we will run a loop first and identify the count values 
   2) after we will run 3 for loop and  and assign the present value with array
+
+**Buy-and-sell-stock-at-best-price**
+1) where we are finding the  minimun price we bougth
+2) after find the day we will - with day in which we are selling
+3) we ill get the profit
+4) we can change the mini value and profit value if the condition not match
