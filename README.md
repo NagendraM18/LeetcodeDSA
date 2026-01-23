@@ -7,7 +7,7 @@ This repository contains Java solutions for various Data Structures and Algorith
 
 This repository includes solutions for the following problems:
 
-Array part(1)
+**Array part(1)**
 
 1.  [Two Sum](#two-sum)
 2.  [Pascal's Triangle](#pascals-triangle)
@@ -15,9 +15,10 @@ Array part(1)
 4.  [Next permutation](#next-permutation)
 5.  [sort color](#sort-array-with-only-values-0,1,2)
 6.  [Buy and sell stock at best price](#Buy-and-sell-stock-at-best-price)
-  I Have completed mt array part one solution   and performed many operation and learned the  effective thing  know we are moving to Array part 2
+ 
+I Have completed mt array part one solution   and performed many operation and learned the  effective thing  know we are moving to Array part2
 
-   Array part (2)
+  **Array part (2)**
 ---
 
 ### Two Sum
