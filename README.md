@@ -18,8 +18,11 @@ This repository includes solutions for the following problems:
  
 I Have completed mt array part one solution   and performed many operation and learned the  effective thing  know we are moving to Array part2
 
+  
   **Array part (2)**
----
+
+1. [Reverse Integer](#Reverse-Integer)
+   ---
 
 ### Two Sum
 
@@ -98,3 +101,7 @@ This file provides a `Solution` class with a `setZeroes` method, as is typical i
 2) after find the day we will - with day in which we are selling
 3) we ill get the profit
 4) we can change the mini value and profit value if the condition not match
+
+   **Reverse_Integer**
+   1) solve the problem using % we will get the last number   add that to sum
+   2)  the sum should be less the 32 bit  -2 to th epower of 31  in the positive also  when  we divide by 10 it we will get 10 nujber  lower so will get 7 and -8
