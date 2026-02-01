@@ -10,8 +10,9 @@ class Solution
         storingvalue +=array[i];
         if(i>=k-1)
         {
-            Masum = Math.max(Maxsum,storingvalue);
-          
+            Maxsum = Math.max(Maxsum,storingvalue);
+            storingvalue -=array[left];
+            left++;
         }
 
       }
